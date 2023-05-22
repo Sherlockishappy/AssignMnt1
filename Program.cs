@@ -8,7 +8,6 @@ namespace AssignMnt1 {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("The weather is great!");
-            Console.WriteLine("Feature branch 1 - development 2");
             Console.ReadKey();
         }
     }
