@@ -8,11 +8,8 @@ namespace AssignMnt1 {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("The weather is great!");
-<<<<<<< HEAD
             Console.WriteLine("Feature branch 1 - development 1");
-=======
             Console.WriteLine("Feature branch 1 - development 2");
->>>>>>> 001a64f (master change)
             Console.ReadKey();
         }
     }
